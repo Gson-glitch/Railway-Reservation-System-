@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+.env.local
+.env.*.local
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Dependency directories
+venv/
+env/
+bin/
+lib/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# IDE settings and misc
+.idea/
+*.iml
+*.ipynb_checkpoints/
+.vscode/
+*.pydevproject
+*.project
+*.settings/
+*.bak
+*.tmp
+*.swp
